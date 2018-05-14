@@ -1,15 +1,17 @@
 # 42_Projects
-In this repository, you'll find all projects I made in my cursus at 42born2code.
-	Basic Projects :
-		- libft
-		- Fillit
-		- Get_Next_Line
+In this repository, you'll find all projects I made in my cursus at
+42born2code.
 
-	Algorythmic branch :
-		- ft_printf
-		- Push_swap
-		- Lem_in
-		- Corewar
+	__Basic Projects :__
+		* libft
+		* Fillit
+		* Get_Next_Line
 
-	Others :
-		- Piscine After Effects
+	__Algorythmic branch :__
+		* ft_printf
+		* Push_swap
+		* Lem_in
+		* Corewar
+
+	__Others :__
+		* Piscine After Effects

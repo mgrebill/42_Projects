@@ -1,6 +1,5 @@
 # 42_Projects
 In this repository, you'll find all projects I made in my cursus at 42born2code.
-
 	Basic Projects :
 		- libft
 		- Fillit

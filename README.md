@@ -5,13 +5,11 @@ In this repository, you'll find all projects I made in my cursus at
 __Basic Projects :__
 * libft
 * Fillit
-* Get\_Next\_Line
-<br />
+* Get_Next_Line
 __Algorythmic Branch :__
-* ft\_printf
-* Push\_swap
-* Lem\_in
+* ft_printf
+* Push_swap
+* Lem_in
 * Corewar
-<br />
 __Others :__
 * Piscine After Effects

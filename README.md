@@ -5,12 +5,12 @@ In this repository, you'll find all projects I made in my cursus at
 __Basic Projects :__
 * libft
 * Fillit
-* Get_Next_Line
+* Get\_Next\_Line
 <br />
-__Algorythmic branch :__
-* ft_printf
-* Push_swap
-* Lem_in
+__Algorythmic Branch :__
+* ft\_printf
+* Push\_swap
+* Lem\_in
 * Corewar
 <br />
 __Others :__

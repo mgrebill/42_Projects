@@ -6,10 +6,12 @@ __Basic Projects :__
 * libft
 * Fillit
 * Get_Next_Line
+
 __Algorythmic Branch :__
 * ft_printf
 * Push_swap
 * Lem_in
 * Corewar
+
 __Others :__
 * Piscine After Effects

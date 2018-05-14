@@ -7,7 +7,7 @@ __Basic Projects :__
 * Fillit
 * Get_Next_Line
 
-__Algorythmic Branch :__
+__Algorithmic Branch :__
 * ft_printf
 * Push_swap
 * Lem_in
@@ -15,3 +15,5 @@ __Algorythmic Branch :__
 
 __Others :__
 * Piscine After Effects
+
+Enjoy your visit and feel free to post nice comments and 

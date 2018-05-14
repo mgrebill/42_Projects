@@ -16,4 +16,4 @@ __Algorithmic Branch :__
 __Others :__
 * Piscine After Effects
 
-Enjoy your visit and feel free to post nice comments and 
+Enjoy your visit !

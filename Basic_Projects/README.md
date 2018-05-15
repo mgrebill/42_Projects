@@ -22,5 +22,6 @@ are : use only one static variable and handle multiple file descriptors.<br />
 After those projects, i had to chose a branch. There is 3 branches :
 - Unix / System
 - Algorithms
-- Graphics<br />
+- Graphics
+<br />
 I chose Algorithmic branch, so see you in the corresponded directory ;)

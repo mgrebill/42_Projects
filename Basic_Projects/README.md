@@ -24,4 +24,4 @@ After those projects, i had to chose a branch. There is 3 branches :
 - Algorithms
 - Graphics
 <br />
-I chose Algorithmic branch, so see you in the corresponded directory ;)
+I chose Algorithmic branch, so see you in the corresponding directory ;)

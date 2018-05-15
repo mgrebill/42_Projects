@@ -18,8 +18,9 @@ line by line. I had to make a function that store in a string a line of a file.
 If the function is called again, the next line will be stored, etc... Bonuses
 are : use only one static variable and handle multiple file descriptors.<br />
 <br />
-__After those projects, i had to chose a branch. There is 3 branches :
+<br />
+After those projects, i had to chose a branch. There is 3 branches :
 - Unix / System
 - Algorithms
 - Graphics<br />
-I chose Algorithmic branch, so see you in the corresponded directory ;)__
+I chose Algorithmic branch, so see you in the corresponded directory ;)
